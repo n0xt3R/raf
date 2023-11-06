@@ -1,0 +1,15 @@
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\bin\Release\netcoreapp2.0\bundleconfig.json
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\bin\Release\netcoreapp2.0\eab.deps.json
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\bin\Release\netcoreapp2.0\eab.runtimeconfig.json
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\bin\Release\netcoreapp2.0\eab.runtimeconfig.dev.json
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\bin\Release\netcoreapp2.0\eab.dll
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\bin\Release\netcoreapp2.0\eab.pdb
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\obj\Release\netcoreapp2.0\eab.csprojAssemblyReference.cache
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\obj\Release\netcoreapp2.0\eab.AssemblyInfoInputs.cache
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\obj\Release\netcoreapp2.0\eab.AssemblyInfo.cs
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\obj\Release\netcoreapp2.0\eab.dll
+C:\Users\mejiasa\Downloads\EAB Registration\eab\eab\obj\Release\netcoreapp2.0\eab.pdb
