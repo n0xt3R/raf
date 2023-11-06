@@ -1,0 +1,51 @@
+D:\bfws\bfws\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\bfws\bfws\bin\Debug\netcoreapp2.0\appsettings.json
+D:\bfws\bfws\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\bfws\bfws\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.deps.json
+D:\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.runtimeconfig.json
+D:\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.runtimeconfig.dev.json
+D:\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.dll
+D:\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.pdb
+D:\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.csproj.CoreCompileInputs.cache
+D:\bfws\bfws\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.AssemblyInfoInputs.cache
+D:\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.AssemblyInfo.cs
+D:\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.dll
+D:\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.pdb
+D:\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.genruntimeconfig.cache
+D:\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.csprojAssemblyReference.cache
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\bin\Debug\netcoreapp2.0\appsettings.Development.json
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\bin\Debug\netcoreapp2.0\appsettings.json
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\bin\Debug\netcoreapp2.0\bundleconfig.json
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.deps.json
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.runtimeconfig.json
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.runtimeconfig.dev.json
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.dll
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.pdb
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.csprojAssemblyReference.cache
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.AssemblyInfoInputs.cache
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.AssemblyInfo.cs
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.csproj.CoreCompileInputs.cache
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.dll
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.pdb
+H:\Docs\UB_2020\Semester6\CMPS-3162(Adv Databases)\Asignments- Semester\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.genruntimeconfig.cache
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.deps.json
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.runtimeconfig.json
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.runtimeconfig.dev.json
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.dll
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\bin\Debug\netcoreapp2.0\bfws.pdb
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.csproj.CoreCompileInputs.cache
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.AssemblyInfoInputs.cache
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.AssemblyInfo.cs
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.dll
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.pdb
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.csproj.AssemblyReference.cache
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucy\Desktop\Raf Assignment\bfws\bfws\bfws\obj\Debug\netcoreapp2.0\bfws.genruntimeconfig.cache
